@@ -1,5 +1,5 @@
 === Techslices Traffic Widget ===
-Tags: statistics, logging, widgets, sidebar
+Tags: statistics, logging, widget, sidebar
 Contributors: chengwan
 Requires at least: 2.0.2
 Tested up to: 2.0.2
