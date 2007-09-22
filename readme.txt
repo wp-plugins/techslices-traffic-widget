@@ -1,4 +1,4 @@
-=== Quick Stats ===
+=== Techslices Traffic Widget ===
 Tags: statistics, logging, widgets, sidebar
 Contributors: chengwan
 Requires at least: 2.0.2
